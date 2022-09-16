@@ -35,7 +35,7 @@ path/to/image3.jpg</p>
 
 <h2>Images Generation:</h2>
 
-<a href="https://github.com/NVlabs/stylegan2-ada-pytorch">StyleGAN ADA Pytorch</a>
+<a href="https://github.com/NVlabs/stylegan2-ada-pytorch">StyleGAN ADA Pytorch</a><br>
 <a href="https://github.com/clovaai/stargan-v2">StarGANv2</a>
 
 <p>Setup a images as following:</p>
