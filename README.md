@@ -1,4 +1,4 @@
-<h1>Spark in the Dark: Evaluating Encoder-Decoder Pairs for COVID-19 CT's Semantic Segmentation</h1>
+<h1>DACov: A deeper analysis of Data Augmentation on the Computed Tomography Segmentation Problem</h1>
 
 <div style="display:flex;">
     <img src='images/img1.jpg' style="width:24%;">
